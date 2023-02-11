@@ -78,7 +78,7 @@ namespace Ejercicios
         WhiteDwarf,
         NeutronStar,
         BlackHole
-    }
+    };
 }
 
 
