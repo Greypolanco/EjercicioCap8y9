@@ -73,7 +73,12 @@ namespace Ejercicios
         }
     }
 
-
+    enum StarType{
+        RedGiant,
+        WhiteDwarf,
+        NeutronStar,
+        BlackHole
+    }
 }
 
 
