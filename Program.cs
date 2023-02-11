@@ -17,7 +17,7 @@ public class Ejercicios{
 
     public static void Chain(){
         int result = 0;
-        string chain1, chain2;
+        string? chain1, chain2;
         System.Console.WriteLine("introduca una palabra: ");
         chain1 = Console.ReadLine();
         System.Console.WriteLine("Introduzca otra palabra ");
@@ -33,8 +33,6 @@ public class Ejercicios{
         {
             System.Console.WriteLine(chain2 + "\n" + chain1);
         }
-        System.Console.WriteLine();
-
 
     }
 }
